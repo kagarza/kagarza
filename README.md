@@ -19,14 +19,14 @@ Hi there! I'm Kyle Garza, a passionate Data Scientist with a knack for uncoverin
 - **Technologies Used**: R
 - **Key Features**: Exploratory Data Analysis, Multiple Linear Regression, ANOVA, Outlier Analysis, Logarithmic Transformation
 
-### <img src="https://media.licdn.com/dms/image/C560BAQGnL9PBLpEbHg/company-logo_100_100/0/1631352515168?e=1730332800&v=beta&t=GDhWPH3QTxqhyInM3l1r117K0mTWRhy9NoeC4Anru_4" width="20" height="20">[GL - Unsupervised Learning Project - Trade&Ahead](https://github.com/kagarza/Unsupervised-Learning)
+### <img src="https://media.licdn.com/dms/image/C560BAQGnL9PBLpEbHg/company-logo_100_100/0/1631352515168?e=1730332800&v=beta&t=GDhWPH3QTxqhyInM3l1r117K0mTWRhy9NoeC4Anru_4" width="20" height="20">[ GL - Unsupervised Learning Project - Trade&Ahead](https://github.com/kagarza/Unsupervised-Learning)
 <!-- ![Project Image](https://via.placeholder.com/400x200?text=Project+1)  Replace this placeholder with an actual image URL -->
 *Description*: A financial consultancy firm that provides its customers with personalized investment strategies recruited me as a Data Scientist and provided me with data comprising stock price and some financial indicators for a few companies listed under the New York Stock Exchange. They assigned me the tasks of analyzing the data, grouping the stocks based on the attributes provided, and sharing insights about the characteristics of each group.
 
 - **Technologies Used**: Python, Scikit-Learn, Pandas, NumPy, Seaborn, SciPy
 - **Key Features**: EDA, K-means Clustering, Hierarchical Clustering, Cluster Profiling
 
-### [GL - Ensemble Techniques Project - EasyVisa](https://github.com/kagarza/Ensemble-Techniques)
+### <img src="https://media.licdn.com/dms/image/C560BAQGnL9PBLpEbHg/company-logo_100_100/0/1631352515168?e=1730332800&v=beta&t=GDhWPH3QTxqhyInM3l1r117K0mTWRhy9NoeC4Anru_4" width="20" height="20">[ GL - Ensemble Techniques Project - EasyVisa](https://github.com/kagarza/Ensemble-Techniques)
 
 *Description*: In FY 2016, the OFLC processed 775,979 employer applications for 1,699,957 positions for temporary and permanent labor certifications. This was a nine percent increase in the overall number of processed applications from the previous year. The process of reviewing every case is becoming a tedious task as the number of applicants is increasing every year.
 
@@ -38,14 +38,14 @@ The increasing number of applicants every year calls for a Machine Learning base
 - **Technologies Used**: Python, Scikit-Learn, Pandas, NumPy, Seaborn
 - **Key Features**: Exploratory Data Analysis, Data Preprocessing, Customer Profiling, Bagging Classifiers (Bagging and Random Forest), Boosting Classifier (AdaBoost, Gradient Boosting, XGBoost), Stacking Classifier, Hyperparameter Tuning using GridSearchCV, Business Insights
 
-### [GL - Supervised Learning - Classification Project - INN Hotels](https://github.com/kagarza/Supervised-Learning-Classification)
+### <img src="https://media.licdn.com/dms/image/C560BAQGnL9PBLpEbHg/company-logo_100_100/0/1631352515168?e=1730332800&v=beta&t=GDhWPH3QTxqhyInM3l1r117K0mTWRhy9NoeC4Anru_4" width="20" height="20">[ GL - Supervised Learning - Classification Project - INN Hotels](https://github.com/kagarza/Supervised-Learning-Classification)
 
 *Description*: The increasing number of hotel cancellations calls for a Machine Learning based solution that can help in predicting which booking is likely to be canceled. A chain of hotels in Portugal are facing problems with the high number of booking cancellations and have reached out to me for data-driven solutions. I have analyzed the data provided to find which factors have a high influence on booking cancellations, built a predictive model that can predict which booking is going to be canceled in advance, and helped in formulating profitable policies for cancellations and refunds.
 
 - **Technologies Used**: Python, Scikit-Learn, Pandas, NumPy, Seaborn
 - **Key Features**: Exploratory Data Analysis, Data Preprocessing, Logistic Regression, Multicolinearity, AUC-ROC Curve, Decision Tree, Pruning
 
-### [GL - Business Statistcs Project - E-news Express](https://github.com/kagarza/Business-Statistics)
+### <img src="https://media.licdn.com/dms/image/C560BAQGnL9PBLpEbHg/company-logo_100_100/0/1631352515168?e=1730332800&v=beta&t=GDhWPH3QTxqhyInM3l1r117K0mTWRhy9NoeC4Anru_4" width="20" height="20">[ GL - Business Statistcs Project - E-news Express](https://github.com/kagarza/Business-Statistics)
 
 *Description*: The design team of a company has researched and created a new landing page that has a new outline & more relevant content shown compared to the old page. In order to test the effectiveness of the new landing page in gathering new subscribers, the Data Science team conducted an experiment by randomly selecting 100 users and dividing them equally into two groups. The existing landing page was served to the first group (control group) and the new landing page to the second group (treatment group). Data regarding the interaction of users in both groups with the two versions of the landing page was collected. I was asked to explore the data and perform a statistical analysis (at a significance level of 5%) to determine the effectiveness of the new landing page in gathering new subscribers for the news portal by answering the following questions:
 
