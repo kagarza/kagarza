@@ -72,13 +72,13 @@ Feel free to connect with me:
 - **Portfolio**: [GL-Portfolio](https://eportfolio.mygreatlearning.com/kyle-garza)
 - **Email**: [kyle.a.garza@gmail.com](mailto:kyle.a.garza@gmail.com)
 
-## 🎨 Visualization Portfolio
+<!-- ## 🎨 Visualization Portfolio
 
 Check out some of my favorite visualizations:
 
-![Visualization 1](https://via.placeholder.com/400x300?text=Visualization+1) <!-- Replace this placeholder with an actual image URL -->
-![Visualization 2](https://via.placeholder.com/400x300?text=Visualization+2) <!-- Replace this placeholder with an actual image URL -->
-
+![Visualization 1](https://via.placeholder.com/400x300?text=Visualization+1) 
+![Visualization 2](https://via.placeholder.com/400x300?text=Visualization+2) 
+-->
 ---
 
 Thank you for visiting my profile! I hope you find my work interesting and insightful. Feel free to explore my repositories and reach out if you have any questions or opportunities for collaboration.
