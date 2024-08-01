@@ -2,7 +2,7 @@
 
 Hi there! I'm Kyle Garza, a passionate Data Scientist with a knack for uncovering insights from data and solving complex problems. Explore my repositories to see my projects, using skills from exploratory data analysis to unsupervised learning.
 
-![Header Image](https://via.placeholder.com/1200x300?text=Data+Science+with+Python+%26+R) <!-- Replace this placeholder with an actual header image URL -->
+![Header Image](https://github.com/kagarza/kagarza/blob/main/Kyle%20Garza.png?raw=true) 
 
 ## 🌟 About Me
 
