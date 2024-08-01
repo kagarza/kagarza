@@ -19,21 +19,21 @@ Hi there! I'm Kyle Garza, a passionate Data Scientist with a knack for uncoverin
 - **Technologies Used**: Python, Scikit-Learn, Pandas, NumPy, Seaborn, SciPy
 - **Key Features**: EDA, K-means Clustering, Hierarchical Clustering, Cluster Profiling
 
-### [GL - Ensemble Techniques Project - EasyVisa](link-to-your-project)
+### [GL - Ensemble Techniques Project - EasyVisa](https://github.com/kagarza/Ensemble-Techniques)
 ![Project Image](https://via.placeholder.com/400x200?text=Project+2) <!-- Replace this placeholder with an actual image URL -->
 *Description*: A brief description of your project, highlighting the key aspects and your contributions.
 
 - **Technologies Used**: Python, Scikit-Learn, Pandas, NumPy, Seaborn
 - **Key Features**: Exploratory Data Analysis, Data Preprocessing, Customer Profiling, Bagging Classifiers (Bagging and Random Forest), Boosting Classifier (AdaBoost, Gradient Boosting, XGBoost), Stacking Classifier, Hyperparameter Tuning using GridSearchCV, Business Insights
 
-### [GL - Supervised Learning - Classification Project - INN Hotels](link-to-your-project)
+### [GL - Supervised Learning - Classification Project - INN Hotels](https://github.com/kagarza/Supervised-Learning-Classification)
 ![Project Image](https://via.placeholder.com/400x200?text=Project+3) <!-- Replace this placeholder with an actual image URL -->
 *Description*: A brief description of your project, highlighting the key aspects and your contributions.
 
 - **Technologies Used**: Python, Scikit-Learn, Pandas, NumPy, Seaborn
 - **Key Features**: Exploratory Data Analysis, Data Preprocessing, Logistic Regression, Multicolinearity, AUC-ROC Curve, Decision Tree, Pruning
 
-### [GL - Business Statistcs Project - E-news Express](link-to-your-project)
+### [GL - Business Statistcs Project - E-news Express](https://github.com/kagarza/Business-Statistics)
 ![Project Image](https://via.placeholder.com/400x200?text=Project+4) <!-- Replace this placeholder with an actual image URL -->
 *Description*: A brief description of your project, highlighting the key aspects and your contributions.
 
