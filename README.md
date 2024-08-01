@@ -12,7 +12,7 @@ Hi there! I'm Kyle Garza, a passionate Data Scientist with a knack for uncoverin
 
 ## 📊 Projects
 
-### [GL - Unsupervised Learning Project - Trade&Ahead](Unsupervised-Learning)
+### [GL - Unsupervised Learning Project - Trade&Ahead](github.com/kagarza/Unsupervised-Learning)
 ![Project Image](https://via.placeholder.com/400x200?text=Minimizing+Risk+on+the+Stock+Exchange) <!-- Replace this placeholder with an actual image URL -->
 *Description*: A brief description of your project, highlighting the key aspects and your contributions.
 
