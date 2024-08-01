@@ -12,19 +12,33 @@ Hi there! I'm Kyle Garza, a passionate Data Scientist with a knack for uncoverin
 
 ## 📊 Projects
 
-### [Project Name 1](link-to-your-project)
+### [GL - Unsupervised Learning Project - Trade&Ahead](link-to-your-project)
 ![Project Image](https://via.placeholder.com/400x200?text=Project+1) <!-- Replace this placeholder with an actual image URL -->
 *Description*: A brief description of your project, highlighting the key aspects and your contributions.
 
 - **Technologies Used**: Python, Scikit-Learn, Pandas
-- **Key Features**: Feature Engineering, Model Evaluation, Data Visualization
+- **Key Features**: EDA, K-means Clustering, Hierarchical Clustering, Cluster Profiling
 
-### [Project Name 2](link-to-your-project)
+### [GL - Ensemble Techniques Project - EasyVisa](link-to-your-project)
 ![Project Image](https://via.placeholder.com/400x200?text=Project+2) <!-- Replace this placeholder with an actual image URL -->
 *Description*: A brief description of your project, highlighting the key aspects and your contributions.
 
 - **Technologies Used**: R, ggplot2, dplyr
-- **Key Features**: Unsupervised Learning, Clustering Analysis, Data Cleaning
+- **Key Features**: Exploratory Data Analysis, Data Preprocessing, Customer Profiling, Bagging Classifiers (Bagging and Random Forest), Boosting Classifier (AdaBoost, Gradient Boosting, XGBoost), Stacking Classifier, Hyperparameter Tuning using GridSearchCV, Business Insights
+
+### [GL - Supervised Learning - Classification Project - INN Hotels](link-to-your-project)
+![Project Image](https://via.placeholder.com/400x200?text=Project+2) <!-- Replace this placeholder with an actual image URL -->
+*Description*: A brief description of your project, highlighting the key aspects and your contributions.
+
+- **Technologies Used**: R, ggplot2, dplyr
+- **Key Features**: Exploratory Data Analysis, Data Preprocessing, Logistic Regression, Multicolinearity, AUC-ROC Curve, Decision Tree, Pruning
+
+### [GL - Business Statistcs Project - E-news Express](link-to-your-project)
+![Project Image](https://via.placeholder.com/400x200?text=Project+2) <!-- Replace this placeholder with an actual image URL -->
+*Description*: A brief description of your project, highlighting the key aspects and your contributions.
+
+- **Technologies Used**: R, ggplot2, dplyr
+- **Key Features**: Hypothesis Testing, a/b testing, Data Visualization, Statistical Inference
 
 ## 📚 Skills
 
