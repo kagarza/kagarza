@@ -68,9 +68,9 @@ Here are some highlights of my work that showcase my expertise and passion for d
 
 Feel free to connect with me:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/kylegarza)
+- **LinkedIn**: [/kylegarza](https://www.linkedin.com/in/kylegarza)
 - **Portfolio**: [GL-Portfolio](https://eportfolio.mygreatlearning.com/kyle-garza)
-- **Email**: [your-email@example.com](mailto:kyle.a.garza@gmail.com)
+- **Email**: [kyle.a.garza@gmail.com](mailto:kyle.a.garza@gmail.com)
 
 ## 🎨 Visualization Portfolio
 
