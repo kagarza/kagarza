@@ -56,12 +56,13 @@ Is the time spent on the new page the same for the different language users?
 - **Libraries & Tools**: Scikit-Learn, Pandas, NumPy, Seaborn, SciPy
 - **Techniques**: Unsupervised Learning, K-Means Clustering, Feature Engineering, Exploratory Data Analysis
 
-## 📈 Featured Work
+<!-- ## 📈 Featured Work
 
 Here are some highlights of my work that showcase my expertise and passion for data science:
 
 - [**Unsupervised Learning Analysis**](link-to-your-project): An in-depth analysis of clustering techniques applied to real-world data.
 - [**Feature Engineering Case Study**](link-to-your-project): A comprehensive study on feature engineering strategies and their impact on model performance.
+-->
 
 ## 📬 Get in Touch
 
